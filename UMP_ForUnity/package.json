@@ -1,0 +1,8 @@
+{
+  "name": "com.thinhbx.ump_package",
+  "author": "thinhbx",
+  "version": "0.0.1",
+  "displayName": "UMP_UNITY",
+  "description": "This is a test package",
+  "unity": "2022.2"
+}
